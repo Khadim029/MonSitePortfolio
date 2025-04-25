@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfolio de Khadim Kasse</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #003366; /* Fond bleu foncé */
+      color: #ffffff; /* Texte blanc */
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+
+    .subtitle, .school {
+      font-size: 1.1em;
+      color: #cce6ff;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      color: #99ccff;
+      font-size: 1.5em;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #cce6ff;
+      padding-bottom: 5px;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #ffffff;
+      border-top: 1px solid #cce6ff;
+      padding-top: 10px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Khadim Kasse</h1>
+      <p class="subtitle">Étudiant en Diplomatie Économique et Coopération Internationale</p>
+      <p class="school">Université Cheikh Anta Diop de Dakar – Sciences Po Paris</p>
+    </header>
+
+    <section>
+      <h2>À propos</h2>
+      <p>
+        Actuellement étudiant à l’Université Cheikh Anta Diop de Dakar et en échange académique à Sciences Po Paris, je poursuis un Master en Diplomatie Économique et Coopération Internationale. Titulaire d’une licence en Ingénierie Financière et Intelligence Économique des Affaires, je développe une expertise croisée entre analyse financière et intelligence économique des affaires.
+      </p>
+    </section>
+
+    <section>
+      <h2>Formation</h2>
+      <ul>
+        <li>2024–2025 : Échange académique – Sciences Po Paris</li>
+        <li>Depuis 2023 : Master Diplomatie Économique – UCAD</li>
+        <li>2021–2024 : Licence Ingénierie Financière – UCAD</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Expériences</h2>
+      <ul>
+        <li>Stage – Niyel Suarl (2024) : Projet "Policy Tracker"</li>
+        <li>Missions bénévoles, emploi étudiant</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projets académiques</h2>
+      <ul>
+        <li>Projet tutoré : Financement des PME au Sénégal</li>
+        <li>Mémoire, étude de cas, business plan</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Compétences</h2>
+      <ul>
+        <li><strong>Langues :</strong> Français (C2), Wolof (natif)</li>
+        <li><strong>Outils :</strong> Google Workspace</li>
+        <li><strong>Soft skills :</strong> Esprit critique, capacité d’analyse</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Objectif professionnel</h2>
+      <p>
+        Devenir analyste financier spécialisé en évaluation d’entreprise dans une institution internationale.
+      </p>
+    </section>
+
+    <footer>
+      <p>📧 khadim.kasse@sciencespo.fr</p>
+    </footer>
+  </div>
+
+  <script>
+    console.log("Bienvenue sur le portfolio de Khadim Kasse !");
+  </script>
+</body>
+</html>
